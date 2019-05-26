@@ -1,0 +1,8 @@
+.hidden {
+  display: none;
+}
+span:hover {
+  cursor: pointer;
+  font-weight: bold;
+  user-select: none;
+}
